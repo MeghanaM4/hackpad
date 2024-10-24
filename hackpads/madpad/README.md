@@ -16,7 +16,7 @@ I spent like 8 hours straight working on this project for 4 days, no joke. I did
 - 5x screws for M3 inserts (14mm >=)
 
 ## Colors
-Base: Red
-Plate: Black
-Cover: White
-Acrylic: Acrylic
+Base: Red        
+Plate: Black        
+Cover: White      
+Acrylic: Acrylic       
